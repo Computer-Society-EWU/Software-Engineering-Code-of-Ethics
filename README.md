@@ -12,4 +12,4 @@ The code of ethics is available in the following formats:
 The code of ethics is also available in different languages, such as:
 - [Spanish](https://www.acm.org/code-of-ethics/the-code-in-spanish)
 
-For more information about the code of ethics or different languages, please visit the [official website](^https://www.computer.org/education/code-of-ethics^) of the IEEE-CS/ACM Joint Task Force on Software Engineering Ethics and Professional Practices.
+For more information about the code of ethics or different languages, please visit the [official website](https://www.computer.org/education/code-of-ethics) of the IEEE-CS/ACM Joint Task Force on Software Engineering Ethics and Professional Practices.
