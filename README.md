@@ -7,7 +7,7 @@ This repository contains the Software Engineering Code of Ethics and Professiona
 The code of ethics is available in the following formats:
 
 - [PDF](https://github.com/Computer-Society-EWU/Software-Engineering-Code-of-Ethics/blob/main/software-engineering-code-of-ethics.pdf)
-- [Plain text](^3^)
+- [Plain text](https://github.com/Computer-Society-EWU/Software-Engineering-Code-of-Ethics/blob/main/Software%20Engineering%20Code%20of%20Ethics.txt)
 
 The code of ethics is also available in different languages, such as:
 - [Spanish](https://www.acm.org/code-of-ethics/the-code-in-spanish)
